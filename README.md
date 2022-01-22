@@ -1,24 +1,19 @@
-# blockshop
+### 1. 项目描述
+商城前端代码，对应的后端代码: https://github.com/guoshijiang/blockshop_service
 
-## Project setup
+### 2. 项目部署
+
+第一步：安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+第二步：开发环境运行
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+第三步：代码编译
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
